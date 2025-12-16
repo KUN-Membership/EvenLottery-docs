@@ -207,7 +207,7 @@
 
 例えば，統合版の参加ができない企画では以下のように入力してください：
 ```
-/lottery config allow_bedrock <企画 ID または企画名> false
+/lottery config <企画 ID または企画名> allow_bedrock false
 ```
 
 これを行うと，設定が完了します。
